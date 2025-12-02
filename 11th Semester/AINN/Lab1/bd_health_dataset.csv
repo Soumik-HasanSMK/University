@@ -1,0 +1,31 @@
+Patient_ID,Name,Age,Gender,Date_of_Visit,City,Height_cm,Weight_kg,Blood_Pressure,Glucose_Level,Remarks
+P001,Rakib Hasan,25.0,Male,2025-01-12,Dhaka,172,68,120/80,95,Healthy
+P002,Shila khatun,,F,25/02/2025,chittagong,158,,130/85,110,Good
+P003,Sumon Ahmed,-5.0,male,2025-03-08,Sylhet,165,59,,98,NULL
+P004,NULL,32.0,Female,2025/04/17,Rajshahi,,70,125/90,bad_data,Diabetes
+P005,Tania Akter,41.0,female,2025-05-03,Rangpur,160,65kg,135/88,115,normal
+P006,Farhan Rahman,29.0,M,13-06-2025,Barisal,170cm,71,120_80,100,healthy
+P007,Afsana Islam,0.0,Female,2025-07-01,Mymensingh,162,58,125/82,105,N/A
+P008,Rahima Begum,38.0,Fmale,2025-08-21,Dhka,159,60,115/78,108,recovered
+P009,Md. Arif Hossain,45.0,Male,2025-09-09,Khulna,174,78,145/95,130,hypertension
+P010,Liza,27.0,female,2025-10-10,Dhaka,166,55,118/80,?,no issues
+P011,Nusrat Jahan,33.0,M,2025-01-15,Dhaka,168,62,122/81,98,normal
+P012,Sadiqur Rahman,22.0,F,2025/02/19,Chittagong,171,75,128/84,105,healthy
+P013,Anika Akter,30.0,f,2025-03-20,Sylhet,163,60,124/79,102,Good
+P014,Tanvir Hossain,28.0,Male,2025-04-05,Rajshahi,175,80,130/85,110,N/A
+P015,Rumana Akhter,,Female,2025-05-25,Rangpur,160,66,135/90,115,NULL
+P016,Shanto Mia,26.0,M,2025-06-10,Barisal,169,69,120/80,107,check
+P017,Ayesha Begum,39.0,female,2025-07-12,Mymensingh,158,57,125/82,99,healthy
+P018,Hasan Ali,50.0,Male,2025/08/18,Dhaka,172,74,140/90,120,risk
+P019,Tanha Akter,31.0,F,2025-09-22,Khulna,165,63,130/88,112,normal
+P020,Rony Hossain,24.0,f,2025-10-15,chittagong,167,61,119/79,104,healthy
+P021,Salma Begum,29.0,M,2025-01-25,Dhaka,0,0,0/0,0,N/A
+P022,Rashid Khan,0.0,F,2025-02-28,Sylhet,162,59,123/80,108,check
+P023,Fariha Akter,36.0,female,2025-03-30,Rajshahi,161,72,127/85,115,Good
+P024,Imran Hossain,-2.0,Male,2025/04/12,Barisal,170,70,125/80,100,healthy
+P025,Lamia Akter,27.0,F,2025-05-30,Khulna,164,64,118/82,99,normal
+P026,Rakib Hasan,25.0,M,2025-06-15,Dhaka,165,68,120/78,95,healthy
+P027,Shila khatun,30.0,female,2025-07-20,chittagong,158,60,130/85,110,N/A
+P028,Sumon Ahmed,34.0,F,2025-08-25,Sylhet,160,66,125/80,102,recovered
+P029,Afsana Islam,26.0,M,2025-09-30,Mymensingh,162,58,122/80,105,Good
+P030,Tania Akter,32.0,f,2025-10-28,Rangpur,159,65,128/82,108,check
