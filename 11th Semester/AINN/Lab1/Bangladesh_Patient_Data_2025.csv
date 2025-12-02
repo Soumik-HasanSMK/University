@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Date_of_Visit,City,Height_cm,Weight_kg,Blood_Pressure,Glucose_Level,Remarks
+P001,Rakib Hasan,25.0,Male,2025-01-12,Dhaka,172,68,120/80,95,Healthy
+P002,Shila khatun,,F,25/02/2025,chittagong,158,,130/85,110,Good
+P003,"""Sumon Ahmed""",-5.0,male,2025-03-08,Sylhet,165,59,None,98,NULL
+P004,NULL,32.0,Female,2025/04/17,Rajshahi,,70,125/90,bad_data,Diabetes
+P005,Tania Akter,41.0,female,2025-05-03,Rangpur,160,65kg,135/88,115,normal
+P006,Farhan Rahman,29.0,M,13-06-2025,Barisal,170cm,71,120_80,100,healthy
+P007,Afsana Islam,0.0,Female,2025-07-01,Mymensingh,162,58,125/82,105,N/A
+P008,Rahima Begum,38.0,Fmale,2025-08-21,Dhka,159,60,115/78,108,recovered
+P009,Md. Arif Hossain,45.0,Male,2025-09-09,Khulna,174,78,145/95,130,hypertension
+P010,Liza,27.0,female,2025-10-10,,166,55,118/80,?,no issues
